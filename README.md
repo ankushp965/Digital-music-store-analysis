@@ -37,6 +37,7 @@ This project aims to analyze a digital music store's database using PostgreSQL, 
 
 
 
+
 ## Data Analysis
 1. **Comprehensive Data Analysis**: Conducted a detailed analysis of customer behavior, sales, and music trends.
 2. **Schema Design**: Designed a robust database schema to ensure data integrity and relational consistency.
